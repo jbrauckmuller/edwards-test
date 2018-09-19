@@ -21,6 +21,8 @@
 
 		<div id="outer-wrap" class="site clr">
 
+			<p>TEST</p>
+
 			<?php do_action( 'ocean_before_wrap' ); ?>
 
 			<div id="wrap" class="clr">

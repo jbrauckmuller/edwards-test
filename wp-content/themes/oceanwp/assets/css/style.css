@@ -201,6 +201,15 @@ body .oceanwp-row .span_1_of_10 {
   width: 10%;
 }
 
+.home-numbers {
+  width: 33.3%;
+  display: block;
+}
+
+.number-figures {
+
+}
+
 /**
  * Grid > Clear Floats.
  */
