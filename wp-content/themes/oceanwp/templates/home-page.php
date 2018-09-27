@@ -48,5 +48,8 @@ get_header(); ?>
 	
 </div>
 
+<div class="grey-logo">
+	<?php echo do_shortcode("[foogallery id=282]"); ?>
+</div>
 
 <?php get_footer(); ?>
